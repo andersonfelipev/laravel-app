@@ -1,6 +1,6 @@
 # Laravel `app:name` support
 
-![the dragon code laravel app](https://preview.dragon-code.pro/the-dragon-code/laravel-app.svg?brand=laravel)
+![the dragon code laravel app](https://preview.andersonfelipev.pro/the-andersonfelipev/laravel-app.svg?brand=laravel)
 
 This package provides a backwards compatibility layer for Laravel `app:name` command in the latest Laravel release.
 
@@ -16,7 +16,7 @@ This package provides a backwards compatibility layer for Laravel `app:name` com
 To get the latest version, simply require the project using [Composer](https://getcomposer.org):
 
 ```bash
-composer require dragon-code/laravel-app --dev
+composer require andersonfelipev/laravel-app --dev
 ```
 
 Instead, you may of course manually update your require block and run `composer update` if you so choose:
@@ -24,7 +24,7 @@ Instead, you may of course manually update your require block and run `composer 
 ```json
 {
     "require-dev": {
-        "dragon-code/laravel-app": "^1.0"
+        "andersonfelipev/laravel-app": "^1.0"
     }
 }
 ```
@@ -44,12 +44,12 @@ This package is released under the [MIT License](LICENSE).
 The code is taken from the [Laravel Framework](https://github.com/laravel/framework/pull/27575).
 
 
-[badge_downloads]:  https://img.shields.io/packagist/dt/dragon-code/laravel-app.svg?style=flat-square
+[badge_downloads]:  https://img.shields.io/packagist/dt/andersonfelipev/laravel-app.svg?style=flat-square
 
-[badge_license]:    https://img.shields.io/packagist/l/dragon-code/laravel-app.svg?style=flat-square
+[badge_license]:    https://img.shields.io/packagist/l/andersonfelipev/laravel-app.svg?style=flat-square
 
 [badge_stable]:     https://img.shields.io/github/v/release/TheDragonCode/laravel-app?label=stable&style=flat-square
 
-[link_packagist]:   https://packagist.org/packages/dragon-code/laravel-app
+[link_packagist]:   https://packagist.org/packages/andersonfelipev/laravel-app
 
 [link_license]:     LICENSE

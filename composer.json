@@ -51,5 +51,8 @@
                 "DragonCode\\LaravelApp\\ServiceProvider"
             ]
         }
+    },
+    "require-dev": {
+        "dragon-code/laravel-app": "^1.2"
     }
 }
